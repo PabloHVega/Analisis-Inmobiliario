@@ -25,6 +25,10 @@ datos/
 
 # Entregables
 entregables/
+!entregables/informes/
+!entregables/informes/*.html
+!entregables/graficos/
+!entregables/graficos/*.html
 reports/
 
 # Archivos de log
